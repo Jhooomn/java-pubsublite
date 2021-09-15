@@ -2,4 +2,3 @@
 # module:released-version:current-version
 
 google-cloud-pubsublite:1.0.6:1.0.7-SNAPSHOT
-pubsublite-beam-io:0.19.6:0.19.7-SNAPSHOT
