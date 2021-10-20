@@ -1,5 +1,16 @@
 # Changelog
 
+### [1.3.1](https://www.github.com/googleapis/java-pubsublite/compare/v1.3.0...v1.3.1) (2021-10-20)
+
+
+### Dependencies
+
+* update beam.version to v2.33.0 ([#920](https://www.github.com/googleapis/java-pubsublite/issues/920)) ([91289d2](https://www.github.com/googleapis/java-pubsublite/commit/91289d2f9cd92a0af6bbdf5701dfd71c307275cb))
+* update dependency com.google.cloud:google-cloud-pubsub to v1.114.7 ([#926](https://www.github.com/googleapis/java-pubsublite/issues/926)) ([80becc5](https://www.github.com/googleapis/java-pubsublite/commit/80becc572b1769534c525e7962159045a3fc25d1))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.4.0 ([#925](https://www.github.com/googleapis/java-pubsublite/issues/925)) ([50a36f3](https://www.github.com/googleapis/java-pubsublite/commit/50a36f3c30e7a1b66cb1ee3be7d5f7382e205fa4))
+* update dependency com.google.cloud:pubsublite-beam-io to v0.22.0 ([#915](https://www.github.com/googleapis/java-pubsublite/issues/915)) ([b9f7727](https://www.github.com/googleapis/java-pubsublite/commit/b9f7727e2a507415a170f49d7c2947bac187addc))
+* update dependency com.google.flogger:flogger-system-backend to v0.7.1 ([#917](https://www.github.com/googleapis/java-pubsublite/issues/917)) ([580aa0a](https://www.github.com/googleapis/java-pubsublite/commit/580aa0acf5e53849d79f95239be944b5ac269461))
+
 ## [1.3.0](https://www.github.com/googleapis/java-pubsublite/compare/v1.2.0...v1.3.0) (2021-10-06)
 
 
